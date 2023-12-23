@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "958131599258",
+    "firebase_url": "https://customer-73870-default-rtdb.firebaseio.com",
+    "project_id": "customer-73870",
+    "storage_bucket": "customer-73870.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958131599258:android:b1eb520241b214ac07ec23",
+        "android_client_info": {
+          "package_name": "com.Urride"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrfFBjZShIAXMqvdt0MqvhKMhyIEqC3Bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958131599258:android:c14b71de3f8fb3e607ec23",
+        "android_client_info": {
+          "package_name": "com.digigrow.urride"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrfFBjZShIAXMqvdt0MqvhKMhyIEqC3Bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
